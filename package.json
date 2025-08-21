@@ -2,9 +2,10 @@
   "name": "lokka-azure",
   "version": "1.0.0",
   "scripts": {
-    "start": "npx -y @merill/lokka"
+    "start": "node server.js"
   },
   "dependencies": {
-    "@merill/lokka": "latest"
+    "@merill/lokka": "latest",
+    "express": "^4.18.2"
   }
 }
