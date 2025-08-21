@@ -1,0 +1,10 @@
+{
+  "name": "lokka-azure",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx -y @merill/lokka"
+  },
+  "dependencies": {
+    "@merill/lokka": "latest"
+  }
+}
